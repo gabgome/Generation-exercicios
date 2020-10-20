@@ -1,2 +1,2 @@
 # Generation-exercicios
-Resoluções de exercícios da plataforma Generation
+Resoluções de exercícios de Lógica de Programação do Bootcamp da Generation
